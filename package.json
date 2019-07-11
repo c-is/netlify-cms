@@ -125,6 +125,7 @@
   "private": true,
   "dependencies": {
     "emotion": "^10.0.9",
-    "lerna": "^3.15.0"
+    "lerna": "^3.15.0",
+    "react-emotion": "^10.0.0"
   }
 }
